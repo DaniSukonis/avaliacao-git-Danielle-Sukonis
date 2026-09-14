@@ -1,3 +1,4 @@
 Criar Repositorio
 Primeiro commit na main
 Criar a branch
+Pull request e merge
