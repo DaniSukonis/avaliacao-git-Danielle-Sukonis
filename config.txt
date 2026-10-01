@@ -1,0 +1,3 @@
+PROJETO = Avaliação Git e GitHub
+AUTOR = Danielle Sukonis
+LINGUAGEM = Markdown
